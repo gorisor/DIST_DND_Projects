@@ -1,0 +1,61 @@
+#Character
+PlayerName: Janice
+Name: Ors
+Class: Fighter
+Level: 15
+STR: 30
+DEX: 25
+CON: 50
+INT: 1
+WIS: 7
+CHA: 9
+ACMod: 10
+INIT: 6
+Perc: 5
+
+#Character
+PlayerName: Dilbert
+Name: Dogbert
+Class: Animal
+Level: 7
+STR: 90
+DEX: 5
+CON: 5
+INT: 5
+WIS: 5
+CHA: 5
+ACMod: 5
+INIT: 5
+Perc: 5
+
+#Character
+PlayerName: a
+Name: a
+Class: a
+Level: 1
+STR: 13
+DEX: 13
+CON: 8
+INT: 14
+WIS: 13
+CHA: 11
+ACMod: 1
+INIT: 1
+Perc: 1
+
+#Character
+PlayerName: aaaaa
+Name: a
+Class: a
+Level: 1
+STR: 9
+DEX: 14
+CON: 9
+INT: 13
+WIS: 7
+CHA: 14
+ACMod: 1
+INIT: 1
+Perc: 1
+
+#EndCharacters

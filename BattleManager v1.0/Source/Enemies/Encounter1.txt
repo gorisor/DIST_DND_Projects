@@ -1,0 +1,22 @@
+#Character
+Name: Token 0
+HP: 9
+ACMod: 9000
+INIT: 10
+ATK: (+4) 1d6 +2
+
+#Character
+Name: Token 1
+HP: 9
+ACMod: 9000
+INIT: 10
+ATK: (+4) 1d6 +2
+
+#Character
+Name: Token 2
+HP: 9
+ACMod: 9000
+INIT: 10
+ATK: (+4) 1d6 +2
+
+#EndCharacters

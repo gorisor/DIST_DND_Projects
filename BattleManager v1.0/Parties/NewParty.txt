@@ -1,0 +1,61 @@
+#Character
+PlayerName: Dave the Insufferable
+Name: Mild Manner Toby
+Class: Artificer
+Level: 5
+STR: 10
+DEX: 5
+CON: 9
+INT: 200
+WIS: 5
+CHA: 7
+ACMod: 9000
+INIT: 10
+Perc: 5
+
+#Character
+PlayerName: Dilbert
+Name: Dogbert
+Class: Animal
+Level: 7
+STR: 90
+DEX: 5
+CON: 5
+INT: 5
+WIS: 5
+CHA: 5
+ACMod: 5
+INIT: 5
+Perc: 5
+
+#Character
+PlayerName: dsfadfsa
+Name: dsaf
+Class: dsaf
+Level: 1
+STR: 8
+DEX: 13
+CON: 15
+INT: 13
+WIS: 10
+CHA: 10
+ACMod: 1
+INIT: 1
+Perc: 1
+
+#Character
+PlayerName: Janice
+Name: Ors
+Class: Fighter
+Level: 15
+STR: 30
+DEX: 25
+CON: 50
+INT: 1
+WIS: 7
+CHA: 9
+ACMod: 10
+INIT: 6
+Perc: 5
+
+#EndCharacters
